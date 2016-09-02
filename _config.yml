@@ -1,0 +1,10 @@
+title: moccos.github.io
+# description: > #
+baseurl: ""
+url: "https://moccos.github.io"
+twitter_username: moccos
+github_username:  moccos
+
+# Build settings
+markdown: kramdown
+theme: minima

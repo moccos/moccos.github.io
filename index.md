@@ -1,22 +1,23 @@
 ---
 layout: default
 ---
-<!-- <p style="text-align:right"><a href="index.en.html">English</a> / Japanese</p> -->
-
 ## サークル情報
-2017年より、サークル名を networkmaniacs.net に変更しました。(旧名: 浜風もっこす)
+2017年より、サークル名を networkmaniacs.net に変更しました。(旧名: 浜風もっこす)  
 
 ### 活動予定
 * 2017/04/09 (日) [技術書典2](https://techbookfest.org/) 申込予定
-* 2017/02/17 (金) [デブサミ2017 技術系同人誌・コンテンツ即売会コーナー DevBooks](http://www.slideshare.net/devsumi/developers-summit-2017-69704708)出展 ＠ 目黒雅叙園
+* 2017/02/17 (金) [デブサミ2017 即売会コーナー DevBooks](http://www.slideshare.net/devsumi/developers-summit-2017-69704708)
+ 出展 (＠ 目黒雅叙園)
 
-### 過去の頒布物一覧
+### 活動履歴
 * (近日更新予定)
+
+以前の活動記録は [技術ブログのcircleタグ](http://moccosblue.blogspot.jp/search/label/circle) から確認できます。
 
 ## リンク
 
 * 技術ブログ: [賞味期限切れぷろぐらまー](http://moccosblue.blogspot.jp/)
-* 趣味ブログ: [ctrl-alt-moccos](http://d.hatena.ne.jp/moccos_info/) (ゲーム・声優等)
+* 趣味ブログ: [ctrl-alt-moccos](http://d.hatena.ne.jp/moccos_info/)
 * はてなブックマーク: [moccos_info](http://b.hatena.ne.jp/moccos_info/)
 
 <!--

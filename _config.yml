@@ -4,6 +4,8 @@ baseurl: ""
 url: "http://networkmaniacs.net/"
 twitter_username: moccos
 github_username:  moccos
+author: moccos @ networkmaniacs.net
+google_analytics: UA-3615078-9
 
 # Build settings
 markdown: kramdown

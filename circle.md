@@ -7,13 +7,47 @@ title: networkmaniacs.net - サークル情報
 2017年より、サークル名を networkmaniacs.net に変更しました。(旧名: 浜風もっこす)  
 
 ### 活動予定
-* 2017/04/09 (日) [技術書典2](https://techbookfest.org/) 申込予定
-* 2017/02/17 (金) [デブサミ2017 即売会コーナー DevBooks](http://www.slideshare.net/devsumi/developers-summit-2017-69704708)
- 出展 (＠ 目黒雅叙園)
+* 2017/04/09 (日) [技術書典2](https://techbookfest.org/) あ-05
+  * TCP関係の総集編を予定
+* 2017/08 コミックマーケット92 当落待ち
 
 ### 活動履歴
-* (近日更新予定)
+* 2017/02/17 (金) [デブサミ2017 即売会コーナー DevBooks](http://www.slideshare.net/devsumi/developers-summit-2017-69704708)
+    * Network Maniacs vol.7: [ネットワーク] 高速トランスポートAeron
+* 2016/08/14 コミックマーケット90
+    * Network Maniacs vol.6: [ネットワーク] シリアライズ・プッシュ型/プル型通信
+* 2015/12/31 コミックマーケット89
+    * Network Maniacs vol.5: [ネットワーク] QUICと輻輳制御の近況
+* 2015/08/16 コミックマーケット88
+    * Network Maniacs vol.4: [ネットワーク] Actor Modelのフレームワーク
+    * 社会人提督は持ち時間が少ない: [ゲーム] 艦これ攻略本
+* 2014/12/30 コミックマーケット87
+    * Network Maniacs vol.3: [ネットワーク] 本当は怖いTCP・CUIツール紹介
+* 2014/08/17 コミックマーケット86
+    * Network Maniacs vol.1+2: [ネットワーク] 
+    * 未確定で進撃中 -艦娘でもわかる確率計算-: [ゲーム] 艦これ攻略本
+* 2013/12/31 コミックマーケット85
+    * Network Maniacs vol.2: [ネットワーク] QUIC・FiddlerCore
+* 2013/08/11 コミックマーケット84
+    * Network Maniacs 2013: [ネットワーク] TCP高速化手法・ネットワークバッファ・パケロス (後のvol.1)
+* 2012/12/31 コミックマーケット83
+    * OpenFlow Beginners: [ネットワーク] OpenFlow基礎
+    * 無職生活からのIT業界転職活動: [雑学]
+* 2011/08/13 コミックマーケット80
+    * ネットワーク工作っぽいど・弐: [電子工作] ネットワーク機能を持つモジュールの紹介
+* 2010/12/31 コミックマーケット79
+    * ネットワーク工作っぽいど: [電子工作] ネットワーク機能を持つチップ・モジュールの紹介
+    * MMD+Kinect ミニガイドブック: [3D] MMDのKinect連携機能紹介、Hack方法
+* 2009/12/31 コミックマーケット77
+    * シュミクラム技法: [ゲーム] BALDR SKY dive2の武装データ本
+* 2009/08/15 コミックマーケット76
+    * マクロ指南書: [ゲーム] FFXI攻略本
+* 2008/12/28 コミックマーケット75
+    * 猫式戦術核II: [ゲーム] FFXI攻略本
+    * 樽子の兵法II: [ゲーム] FFXI攻略本
+* 2008/08/16 コミックマーケット74
+    * 猫式戦術核: [ゲーム] FFXI攻略本
+* 2007/12/29 コミックマーケット73
+    * 樽子の兵法: [ゲーム] FFXI攻略本
 
-以前の活動記録は [技術ブログのcircleタグ](http://moccosblue.blogspot.jp/search/label/circle) から確認できます。
-
-
+活動記録は [技術ブログのcircleタグ](http://moccosblue.blogspot.jp/search/label/circle) から確認できます。

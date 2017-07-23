@@ -4,7 +4,7 @@ title: networkmaniacs.net - サークル情報
 ---
 
 ## サークル情報
-2017年より、サークル名を networkmaniacs.net に変更しました。(旧名: 浜風もっこす)  
+サークル「**浜風もっこす**」として活動しています。
 
 ### 活動内容
 主にネットワーク技術の解説本を制作するサークルです。
@@ -13,11 +13,12 @@ title: networkmaniacs.net - サークル情報
 元々はゲーム攻略本から活動が始まっており、今でも時々思い出したようにゲーム攻略本を出します。
 
 ### 活動予定
-* 2017/04/09 (日) [技術書典2](https://techbookfest.org/) あ-05
+* 2017/10/22 (日) [技術書典3](https://techbookfest.org/event/tbf03) 申込み完了・当落発表待ち
   * TCP関係の総集編を予定
-* 2017/08 コミックマーケット92 当落待ち
+* 2017/08 コミックマーケット92 落選
 
 ### 活動履歴
+* 2017/04/09 (日) [技術書典2](https://techbookfest.org/event/tbf02) あ-05
 * 2017/02/17 (金) [デブサミ2017 即売会コーナー DevBooks](http://www.slideshare.net/devsumi/developers-summit-2017-69704708)
     * Network Maniacs vol.7: [ネットワーク] 高速トランスポートAeron
 * 2016/08/14 コミックマーケット90

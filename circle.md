@@ -14,7 +14,8 @@ title: networkmaniacs.net - サークル情報
 
 ### 活動予定
 * 2017/12/31 コミックマーケット93 3日目(日曜)東7 き-41a
-    * [アイドルマスター シンデレラガールズ スターライトステージ](http://cinderella.idolmaster.jp/sl-stage/) を主とした音ゲー攻略本
+    * [マスタリング スターライトステージ](circle/c93.html)
+        * [アイドルマスター シンデレラガールズ スターライトステージ](http://cinderella.idolmaster.jp/sl-stage/) を主とした音ゲー攻略本
 
 ### 活動履歴
 * 2017/10/22 (日) [技術書典3](https://techbookfest.org/event/tbf03)

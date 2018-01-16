@@ -13,12 +13,14 @@ title: networkmaniacs.net - サークル情報
 元々はゲーム攻略本から活動が始まっており、今でも時々思い出したようにゲーム攻略本を出します。
 
 ### 活動予定
-* 2017/12/31 コミックマーケット93 3日目(日曜)東7 き-41a
-    * [マスタリング スターライトステージ](c93.html)
-        * [アイドルマスター シンデレラガールズ スターライトステージ](http://cinderella.idolmaster.jp/sl-stage/) を主とした音ゲー攻略本
+* 2018/02/12 [シンデレラガールズオンリーイベント～シンデレラメモリーズ](http://www.puniket.com/cin-memo/) 申込み
 
 ### 活動履歴
+* 2017/12/31 コミックマーケット93 3日目(日曜)東7 き-41a
+    * [マスタリング スターライトステージ](c93.html) [ゲーム]
+        * [アイドルマスター シンデレラガールズ スターライトステージ](http://cinderella.idolmaster.jp/sl-stage/) を主とした音ゲー攻略本
 * 2017/10/22 (日) [技術書典3](https://techbookfest.org/event/tbf03)
+    * Network Maniacs 別冊TCP受信編 プレリリース版: [ネットワーク] TCP受信周りの再構成、未完
 * 2017/04/09 (日) [技術書典2](https://techbookfest.org/event/tbf02)
 * 2017/02/17 (金) [デブサミ2017 即売会コーナー DevBooks](http://www.slideshare.net/devsumi/developers-summit-2017-69704708)
     * Network Maniacs vol.7: [ネットワーク] 高速トランスポートAeron

@@ -3,7 +3,7 @@ layout: default
 title: networkmaniacs.net
 ---
 
-* [サークル情報](circle.html)
+* [サークル情報](./circle/)
 * [ソフトウェア](software.html)
 
 ## リンク

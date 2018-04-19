@@ -1,6 +1,6 @@
 ---
 layout: default
-title: networkmaniacs.net - サークル情報 技術書典4 (2018 春)
+title: networkmaniacs.net - 浜風もっこす サークル情報 技術書典4 (2018 春)
 ---
 
 技術書典 新刊「Network Maniacs TCP受信編」

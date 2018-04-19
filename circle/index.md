@@ -1,6 +1,6 @@
 ---
 layout: default
-title: networkmaniacs.net - サークル情報
+title: networkmaniacs.net - 浜風もっこす サークル情報
 ---
 
 ## サークル情報

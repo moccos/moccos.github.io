@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 浜風もっこす サークル情報 技術書典4 (2018 春)
+image: ./tb4/nwm_tcp_recv_cover.png
+
 ---
 
 技術書典 新刊「Network Maniacs TCP受信編」

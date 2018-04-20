@@ -1,8 +1,7 @@
 ---
 layout: default
 title: 浜風もっこす サークル情報 技術書典4 (2018 春)
-image: ./tb4/nwm_tcp_recv_cover.png
-description: 技術書典4 新刊「Network Maniacs TCP受信編」き-09 浜風もっこすにて頒布。10年越えベテランもエンバグする本当は怖いTCP受信、これに立ち向かうための、理論とサンプルコードの解説があります。
+description: 技術書典4 新刊「Network Maniacs TCP受信編」き-09 浜風もっこすにて頒布。本当は怖いTCP受信に立ち向かう為の、理論とサンプルコードの解説
 
 ---
 

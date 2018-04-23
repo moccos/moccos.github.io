@@ -13,11 +13,11 @@ title: 浜風もっこす サークル情報
 元々はゲーム攻略本から活動が始まっており、今でも時々思い出したようにゲーム攻略本を出します。
 
 ### 活動予定
-* <span style="font-size: 145%">2018/04/22 [技術書典4 か-09](https://techbookfest.org/event/tbf04/circle/17400001)</span>
-    * <span style="font-size: 170%">[Network Maniacs TCP受信編](tb4.html)</span>を頒布予定
 * 2018/08 C94 申込み (技術系解説書)
 
 ### 活動履歴
+* 2018/04/22 [技術書典4 か-09](https://techbookfest.org/event/tbf04/circle/17400001)
+    * Network Maniacs TCP受信編を頒布予定も、入稿トラブルによりできず
 * 2018/02/12 [シンデレラガールズオンリーイベント～シンデレラメモリーズ](http://www.puniket.com/cin-memo/) メモ27
 * 2017/12/31 コミックマーケット93 3日目(日曜)東7 き-41a
     * [マスタリング スターライトステージ](c93.html) [ゲーム]

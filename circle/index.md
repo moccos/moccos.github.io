@@ -15,7 +15,7 @@ title: 浜風もっこす サークル情報
 ### 活動予定
 * 2018/08/10 [コミックマーケット94 (1日目・金曜)](c94.html) 配置: [西 む41b](https://webcatalog-free.circle.ms/Map#13921853/day=Day1/hall=w12/scale=1)
    * [Network Maniacs TCP受信 基本編](nwm/tcp_recv_basic.html) ようやく入稿
-* 2018/10 技術書典5 当落発表待ち
+* 2018/10 技術書典5 当選 ネットワーク技術周りの新刊を追加予定
 
 ### 活動履歴
 * 2018/04/22 [技術書典4 か-09](https://techbookfest.org/event/tbf04/circle/17400001)

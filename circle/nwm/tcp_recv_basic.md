@@ -1,6 +1,9 @@
 ---
 layout: default
 title: 同人誌情報 Network Maniacs TCP受信 基本編 (2018)
+description: Network ManiacsシリーズのTCP受信基本編。本当は怖いTCP受信、正確に行うための理論とサンプル解説。
+image: /circle/nwm/cover/tcp_recv_basic.png
+
 ---
 
 Network Maniacs TCP受信 基本編

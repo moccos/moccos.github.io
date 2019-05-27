@@ -13,13 +13,14 @@ title: 浜風もっこす サークル情報
 元々はゲーム攻略本から活動が始まっており、今でも時々思い出したようにゲーム攻略本を出します。
 
 ### 活動予定
-* 2019/04 [技術書典6](https://techbookfest.org/event/tbf06) 落選
-* 2019/08 コミックマーケット96 抽選待ち。ネットワーク用語辞典を執筆中。
+* 2019/08 コミックマーケット96 抽選待ち。
+* 2019/07 **[技術書同人誌博覧会](https://gishohaku.dev/) 参加**。ネットワーク用語辞典を執筆中。
 
 ### 活動履歴
-* 2018/10 [技術書典5](https://techbookfest.org/event/tbf05) 出展 [あ07](https://techbookfest.org/event/tbf05/circle/31060002)
-* 2018/08/10 [コミックマーケット94 (1日目・金曜)](c94.html) 配置: [西 む41b](https://webcatalog-free.circle.ms/Map#13921853/day=Day1/hall=w12/scale=1)
-   * [Network Maniacs TCP受信 基本編](nwm/tcp_recv_basic.html) ようやく入稿
+* 2019/04 [技術書典6](https://techbookfest.org/event/tbf06) 落選
+* 2018/10 [技術書典5](https://techbookfest.org/event/tbf05) あ07
+* 2018/08/10 [コミックマーケット94 (1日目・金曜)](c94.html) 西 む41b
+   * [Network Maniacs TCP受信 基本編](nwm/tcp_recv_basic.html)
 * 2018/04/22 [技術書典4 か-09](https://techbookfest.org/event/tbf04/circle/17400001)
     * Network Maniacs TCP受信編を頒布予定も、入稿トラブルによりできず
 * 2018/02/12 [シンデレラガールズオンリーイベント～シンデレラメモリーズ](http://www.puniket.com/cin-memo/) メモ27
@@ -35,7 +36,7 @@ title: 浜風もっこす サークル情報
 * 2015/12/31 コミックマーケット89
     * Network Maniacs vol.5: [ネットワーク] QUICと輻輳制御の近況
 * 2015/08/16 コミックマーケット88
-    * Network Maniacs vol.4: [ネットワーク] Actor Modelのフレームワーク
+    * Network Maniacs vol.4: [ネットワーク] Actor Modelのフレームワーク (Erlang/Elixir, Akka, Pony, Orleans, Orbit)
     * 社会人提督は持ち時間が少ない: [ゲーム] 艦これ攻略本
 * 2014/12/30 コミックマーケット87
     * Network Maniacs vol.3: [ネットワーク] 本当は怖いTCP・CUIツール紹介

@@ -13,11 +13,14 @@ title: 浜風もっこす サークル情報
 元々はゲーム攻略本から活動が始まっており、今でも時々思い出したようにゲーム攻略本を出します。
 
 ### 活動予定
-* 2019/09 [技術書典7](https://techbookfest.org/event/tbf07) 当選 スペース未定
-* 2019/08 コミックマーケット96 (4日目・月曜) 当選 南リ－29a
-* 2019/07 [技術書同人誌博覧会](https://gishohaku.dev/) 参加。[ネットワーク新語辞典](nwm/dic1.html)
+* 2019/09 [技術書典7](https://techbookfest.org/event/tbf07) か27C
+  * 🆕[ネットワーク性能用語辞典](nwm/dic2.html)🆕
+* 2019/12 [技術書同人誌博覧会 第2回](https://gishohaku.dev/) 参加予定
 
 ### 活動履歴
+* 2019/08 コミックマーケット96 (4日目・月曜) 南リ－29a
+* 2019/07 [技術書同人誌博覧会](https://gishohaku.dev/gishohaku1)
+  * [ネットワーク新語辞典](nwm/dic1.html)
 * 2019/04 [技術書典6](https://techbookfest.org/event/tbf06) 落選
 * 2018/10 [技術書典5](https://techbookfest.org/event/tbf05) あ07
 * 2018/08/10 [コミックマーケット94 (1日目・金曜)](c94.html) 西 む41b

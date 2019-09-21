@@ -11,10 +11,10 @@ Network Maniacs TCP受信 基本編
 
 ### 頒布情報
 
-* [COMIC ZINさんで委託中](https://shop.comiczin.jp/products/detail.php?product_id=37189)です。
-* 技術書典5 にて頒布予定です。
 * コミックマーケット94 1日目 8/10(金) [西 む41b](https://webcatalog-free.circle.ms/Map#13921853/day=Day1/hall=w12/scale=1)
 浜風もっこす にて頒布しました。
+* 冊子版は [とらのあなさんで若干数委託中](https://shop.comiczin.jp/products/detail.php?product_id=37189)です。
+* 電子版は [Boothにて販売中](https://moccos.booth.pm/items/1047554)です。
 
 ### 書籍情報
 B5 60p、表紙カラー・本文モノクロです。

@@ -11,10 +11,10 @@ Network Maniacs ネットワーク新語辞典
 
 ### 頒布情報
 
-* 7/27(土) [技術書同人誌博覧会（技書博）](https://gishohaku.dev/)にて頒布予定です。
-* 8/12(祝) コミックマーケット96 (夏コミ) 4日目 月曜日 でも頒布予定です。
-* 冊子版を [とらのあな さんに若干数委託中](https://ec.toranoana.shop/tora/ec/item/040030769470)です。
-* 電子版は [BOOTHにて頒布中](https://moccos.booth.pm/items/1574048) です。
+* 2019/07/27(土) [技術書同人誌博覧会（技書博）](https://gishohaku.dev/)
+* 2019/08/12(祝) コミックマーケット96 (夏コミ) 4日目 月曜日
+* 冊子版 [とらのあな](https://ec.toranoana.shop/tora/ec/item/040030769470) → 在庫切れ
+* 電子版 [BOOTH](https://moccos.booth.pm/items/1574048) と  [技術書典マーケット](https://techbookfest.org/product/5060394099933184?productVariantID=4871819282612224) にあります
 
 ### 書籍情報
 A5 40p、表紙カラー・本文モノクロです。

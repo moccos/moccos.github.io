@@ -11,9 +11,8 @@ Network Maniacs ネットワーク性能用語辞典
 
 ### 頒布情報
 
-* 2019/09 [技術書典7](https://techbookfest.org/event/tbf07) か27C にて頒布予定です。
-* 冊子版は とらのあな さんに若干数委託予定です。
-* 電子版は [BOOTHにて頒布予定](https://moccos.booth.pm/items/1574098) です。(技術書典7当日開始予定)
+* 2019/09 [技術書典7](https://techbookfest.org/event/tbf07) か27C
+* 電子版 [BOOTH](https://moccos.booth.pm/items/1574098) と  [技術書典マーケット](https://techbookfest.org/product/5376473292603392?productVariantID=5371826423201792) にあります
 
 ### 書籍情報
 A5 36p、表紙カラー・本文モノクロです。

@@ -17,7 +17,7 @@ image: /circle/tb13/log_B5_cover_web.png
 ### 書籍情報
 B5 36p、表紙カラー・本文モノクロです。
 
-正式な名前を知らずに使っているプログラム上の記号をテーマとした雑学本です。
+エラーログ・デバッグログなど、ないがしろにされがちなログの取り扱いに関する事例・考察をまとめた本です。
 
 <a href="./log_B5_cover_web.png" rel="lightbox">
   <img src="./log_B5_cover_web.png" alt="表紙" style="width: 300px;"/>

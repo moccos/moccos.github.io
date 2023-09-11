@@ -12,7 +12,7 @@ image: /circle/tb13/log_B5_cover_web.png
 ### 頒布情報
 
 * 2022/09 技術書典13
-* [技術書典マーケット](https://techbookfest.org/product/bHY1TZaNdF28NKgAfFzmG2?productVariantID=a5ZjVctAPkQNDvsR91JYbU)にて電子版頒布中です
+* 電子版 [BOOTH](https://moccos.booth.pm/items/4441351) と  [技術書典マーケット](https://techbookfest.org/product/bHY1TZaNdF28NKgAfFzmG2?productVariantID=a5ZjVctAPkQNDvsR91JYbU) にあります
 
 ### 書籍情報
 B5 36p、表紙カラー・本文モノクロです。
